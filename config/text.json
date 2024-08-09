@@ -1,0 +1,39 @@
+{
+    "about": {
+      "title": "Kim jesteśmy?",
+      "description": "Jesteśmy zespołem pasjonatów, którzy z pełnym zaangażowaniem pomagają ludziom w realizacji ich marzeń o idealnym miejscu do życia. Od lat wspieramy naszych klientów w znalezieniu domów, mieszkań oraz lokali komercyjnych, które spełniają ich potrzeby i oczekiwania. \nNasza agencja nieruchomości powstała z myślą o tym, by proces kupna, sprzedaży czy wynajmu nieruchomości był dla Ciebie jak najbardziej komfortowy. Rozumiemy, jak ważne są to decyzje i ile emocji może wywoływać poszukiwanie nowego domu. Dlatego każdy nasz klient może liczyć na indywidualne podejście, profesjonalizm oraz pełne wsparcie na każdym etapie transakcji."
+    },
+    "info": {
+      "leftPanel": {
+        "title": "Dlaczego my?",
+        "description": [
+          ["Doświadczenie i wiedza:","Nasi doradcy to specjaliści z wieloletnim doświadczeniem na rynku nieruchomości. Znamy lokalne rynki, trendy oraz przepisy, co pozwala nam skutecznie doradzać i negocjować najlepsze warunki dla naszych klientów."],
+          ["Indywidualne podejście:", "Każdy klient jest dla nas wyjątkowy, dlatego oferujemy spersonalizowaną obsługę, dostosowaną do Twoich potrzeb i oczekiwań. Dbamy o to, abyś czuł się pewnie i komfortowo na każdym etapie współpracy."],
+          ["Kompleksowa obsługa:", "Zajmujemy się wszystkim – od doradztwa, przez formalności prawne, aż po finalizację transakcji. Współpracujemy z zaufanymi notariuszami, rzeczoznawcami i bankami, dzięki czemu oferujemy pełne wsparcie przy każdej transakcji."],
+          ["Zaufanie i transparentność:", "W relacjach z naszymi klientami stawiamy na otwartość i uczciwość. Działamy przejrzyście, dostarczając pełnych i rzetelnych informacji, abyś mógł podejmować świadome decyzje."]
+        ]
+      },
+      "rightPanel": {
+        "mission": {
+            "title": "Nasza misja",
+            "description": "Naszym celem jest nie tylko spełnianie oczekiwań klientów, ale ich przewyższanie. Chcemy, aby każda osoba, która zwróci się do nas o pomoc, znalazła swój wymarzony dom lub inwestycję, ciesząc się przy tym spokojem i zaufaniem do nas jako partnera w tej ważnej decyzji."
+        },
+        "invitation": {
+            "title": "Zapraszamy do współpracy",
+            "description": "Jeżeli szukasz nieruchomości lub planujesz sprzedaż czy wynajem – skontaktuj się z nami. Jesteśmy tu, by pomóc Ci zrealizować Twoje cele w sposób profesjonalny, bezstresowy i na najwyższym poziomie. Razem znajdziemy rozwiązanie idealne dla Ciebie."
+        }
+      }
+    },
+    "team": {
+        "title": "Nasz zespół",
+        "description": "Nasz zespół to grupa dynamicznych, pełnych pasji i zaangażowania profesjonalistów, którzy łączą wiedzę z różnych dziedzin, aby oferować kompleksowe wsparcie naszym klientom. Każdy z nas wnosi unikalne doświadczenia i umiejętności, co pozwala nam skutecznie realizować nawet najbardziej wymagające projekty.",
+        "specs": [
+            ["Doradcy Nieruchomości: ","Nasi doradcy to eksperci w swoim fachu, którzy doskonale znają lokalny rynek nieruchomości. Pomagają naszym klientom nie tylko znaleźć idealne miejsce do życia, ale także doradzają w kwestiach finansowych i prawnych."],
+            ["Marketingowcy: ","Dzięki kreatywnym strategiom marketingowym, nasz zespół skutecznie promuje oferty nieruchomości, zapewniając maksymalną widoczność na rynku."],
+            ["Specjaliści ds. Relacji z Klientem: ","Zawsze stawiamy naszych klientów na pierwszym miejscu. Dbamy o to, aby każda transakcja była przejrzysta i komfortowa, a nasi klienci czuli się wspierani na każdym etapie współpracy."]
+        ],
+        "values": "Co nas wyróżnia? Przede wszystkim profesjonalizm, transparentność i zaufanie, które budujemy w relacjach z naszymi klientami. Pracujemy zespołowo, aby każdy projekt zakończył się sukcesem, a każdy klient był w pełni zadowolony."
+      }
+
+  }
+  
